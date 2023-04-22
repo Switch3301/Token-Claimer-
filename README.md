@@ -11,7 +11,7 @@ Join my discord server : https://discord.gg/switchuwu and Contact and buy or
 
 50 stars -> release [`Hotmail box`]
 
-100 stars -> release ['Hotmail Box` - `Kopeechka` - `Own Imap Enabled Accounts`]
+100 stars -> release [ `Hotmail Box` - `Kopeechka` - `Own Imap Enabled Accounts`]
 
 # Example
 
