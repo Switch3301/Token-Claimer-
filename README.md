@@ -7,7 +7,8 @@ Email verifies your unclaimed token using Kopeechka / Hotmailbox api or using ur
 
 Join my discord server : https://discord.gg/switchuwu and Contact and buy or
 
-`Star this repo` 
+`Star this repo`
+
 50 stars -> release [`Hotmail box`]
 100 stars -> release ['Hotmail Box` , `Kopeechka` , `Own Imap Enabled Accounts`]
 
